@@ -24,3 +24,7 @@ DevJourney is a developer-focused learning platform designed to provide structur
 * Dynamic content management
 * Status: learning Git locally.
 
+\## Live Demo
+
+https://yaseminxx77.github.io/DevJourney/
+
